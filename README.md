@@ -1,1 +1,1 @@
-# Neural Network wit Hyper parameters tuning
+# Neural Network with Hyper parameters tuning
