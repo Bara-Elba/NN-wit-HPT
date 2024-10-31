@@ -6,7 +6,7 @@ from keras_tuner import HyperModel
 # from kerastuner.tuners import RandomSearch, Hyperband
 import IPython
 # from tensorflow.keras.metrics import Metric
-from kerastuner import HyperModel
+from keras_tuner import HyperModel
 
 
 class ANNhypermodel(HyperModel):

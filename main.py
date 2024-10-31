@@ -6,7 +6,7 @@ from sklearn.svm import SVR
 from sklearn.neighbors import KNeighborsRegressor
 import tensorflow as tf
 
-from kerastuner.tuners import Hyperband
+from keras_tuner.tuners import Hyperband
 
 # from keras.wrappers.scikit_learn import KerasRegressor
 #import lightgbm as lgb
